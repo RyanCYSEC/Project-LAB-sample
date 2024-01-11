@@ -44,7 +44,7 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/AeZkvFQ.png](https://cdnc.imagefap.com/images/full/110/994/994515501.jpeg?secure=Du8oc6qXWEXkKPhMmOEIRg==,1705040657)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
